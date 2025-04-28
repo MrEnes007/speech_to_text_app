@@ -36,10 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   speech_to_text: ^6.6.0
   permission_handler: ^11.3.0
-  # Windows için özel bağımlılıklar
-  win32: ^5.7.0
-  ffi: ^2.1.0
   path_provider: ^2.1.2
+  web_socket_channel: ^2.4.0
 
 dev_dependencies:
   flutter_test:
